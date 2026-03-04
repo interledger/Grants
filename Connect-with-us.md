@@ -1,0 +1,10 @@
+# Connect with us
+[Join the Interledger Slack community](https://communityinviter.com/apps/interledger/interledger-working-groups-slack)
+[Interledger Wikipedia](https://en.wikipedia.org/wiki/Interledger_Foundation)
+[Interledger LinkedIn](https://www.linkedin.com/company/interledger-foundation)
+[Interledger Instagram](https://www.instagram.com/interledgerfoundation/)
+[Interledger Mastadon](https://interledger.social/about)
+[Interledger Twitter](https://twitter.com/interledger)
+[Interledger YouTube](https://www.youtube.com/@InterledgerFoundation)
+[Interledger Podcasting on Castapod](https://podcast.interledger.org/)
+[Subscribe to our newsletter](https://interledger.org/node/974)
