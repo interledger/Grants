@@ -5,10 +5,10 @@ We are building a global, open payments network designed to empower financial se
 
 
 **By building on Interledger, organizations unlock:**
-	•	Frictionless global transactions
-	•	Micropayments
-	•	Cross-currency interoperability
-	•	Seamless financial access — regardless of identity, geography, or income
+- Frictionless global transactions
+- Micropayments
+- Cross-currency interoperability
+- Seamless financial access — regardless of identity, geography, or income
 
 Note: The 2025 application window has closed. Stay tuned for new opportunities in 2026.
 
@@ -22,11 +22,11 @@ Designed for digital financial service providers, including digital wallets, mob
 Funding range: Up to $250,000 USD
 
 Designed for digital financial service providers including:
-	•	Digital wallets
-	•	Mobile money providers
-	•	Banks
-	•	Savings cooperatives
-	•	Neo-banks
+- Digital wallets
+- Mobile money providers
+- Banks
+- Savings cooperatives
+- Neo-banks
 
 This track supports integration of Rafiki into existing financial infrastructure, establishing new financial nodes on the Interledger Network.
 
@@ -46,26 +46,26 @@ For web-based platforms (e.g., e-commerce sites, donation platforms) seeking to 
 **What You Need to Know** (Digital Financial Services)
 
 Who is eligible?
-	•	Registered corporations
-	•	Non-government entities, institutions, and collectives
-	•	Nonprofits
+- Registered corporations
+- Non-government entities, institutions, and collectives
+- Nonprofits
 
 Focus Areas
-	•	Becoming a financial node within the Interledger Network
-	•	Expanding payment options on existing web-based platforms
+- Becoming a financial node within the Interledger Network
+- Expanding payment options on existing web-based platforms
 
 Project Duration
-	•	Funded projects must run for 12 months
+- Funded projects must run for 12 months
 
 How Funds Can Be Used
 
 Funds may support:
-	•	Technical development & integration
-	•	Platform expansion & user adoption
-	•	Advancing financial inclusion through open payments
+- Technical development & integration
+- Platform expansion & user adoption
+- Advancing financial inclusion through open payments
 
 More Information
-	•	Submit a Grant Inquiry Request Form
-	•	Email: programteam (at) interledger (dot) org
-	•	Join our Slack channel: #cfp-financial-services
-	•	Sign up for the ILF Newsletter
+- Submit a Grant Inquiry Request Form
+- Email: programteam (at) interledger (dot) org
+- Join our Slack channel: #cfp-financial-services
+- Sign up for the ILF Newsletter
