@@ -3,23 +3,23 @@
 **About Interledger Grants and Programs**
 
 The Interledger Foundation works across multiple countries, managing grants and building long-term relationships with partners working in:
-	•	Technology
-	•	Policy
-	•	Global development
-	•	Education
-	•	Community
-	•	Philanthropy
+- Technology
+- Policy
+- Global development
+- Education
+- Community
+- Philanthropy
 
 From 2020 to 2025, the Interledger Foundation invested $21+ million across 271 projects in 42 countries.
 
 Our work began with bold experimentation and evolved into building durable, public-interest financial infrastructure that can be used in the real world.
 
-We fund and support individuals and institutions building:
-	•	Open, interoperable payment systems
-	•	Regulatory alignment
-	•	Education and talent pipelines
-	•	Trust infrastructure
-	•	Strong community ecosystems
+**We fund and support individuals and institutions building:**
+- Open, interoperable payment systems
+- Regulatory alignment
+- Education and talent pipelines
+- Trust infrastructure
+- Strong community ecosystems
 
 ⸻
 
