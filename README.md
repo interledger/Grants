@@ -10,6 +10,8 @@ The Interledger Foundation works across multiple countries, managing grants and 
 - Community
 - Philanthropy
 
+# Head to [Interledger Grants Wiki](https://github.com/interledger/Grants/wiki) for more details about our various grant initiatives.
+
 From 2020 to 2025, the Interledger Foundation invested $21+ million across 271 projects in 42 countries.
 
 Our work began with bold experimentation and evolved into building durable, public-interest financial infrastructure that can be used in the real world.
@@ -40,3 +42,4 @@ Regulated financial service providers testing real payment flows with real users
 Direct engagement with global policy forums (including the United Nations) to align open payments with public-interest goals.
 
 remote_theme: pages-themes/minimal@v0.2.0
+
