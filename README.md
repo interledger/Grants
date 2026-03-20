@@ -1,5 +1,7 @@
 # Interledger Grants
 
+# Head to [Interledger Foundation Grants Wiki page](https://github.com/interledger/Grants/wiki) for more details about our various grant initiatives.
+
 **About Interledger Grants and Programs**
 
 The Interledger Foundation works across multiple countries, managing grants and building long-term relationships with partners working in:
@@ -9,8 +11,6 @@ The Interledger Foundation works across multiple countries, managing grants and 
 - Education
 - Community
 - Philanthropy
-
-# Head to [Interledger Foundation Grants Wiki page](https://github.com/interledger/Grants/wiki) for more details about our various grant initiatives.
 
 From 2020 to 2025, the Interledger Foundation invested $21+ million across 271 projects in 42 countries.
 
