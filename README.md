@@ -41,5 +41,3 @@ Regulated financial service providers testing real payment flows with real users
 
 Direct engagement with global policy forums (including the United Nations) to align open payments with public-interest goals.
 
-remote_theme: pages-themes/minimal@v0.2.0
-
